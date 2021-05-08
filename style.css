@@ -1,0 +1,72 @@
+@media only screen and (min-width: 32.5em) {
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Montserrat:wght@500&display=swap'); {
+    #content h1 {
+        padding-left: 25%;
+    }
+
+    header img {
+        float: right;
+        box-shadow: 0px 0px 9px rgb(169, 174, 247);
+        margin-bottom: 10px;
+        border-radius: 5px;
+    }
+
+    header, footer {
+        border-radius: 10px;
+    }
+
+    body {
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+    }
+    
+    #content {
+        max-width: 960px;
+        margin: 0 auto;
+    }
+    
+    h1 {
+        padding-left: 0;
+        color: #FFF;
+        letter-spacing: 1px;
+    }
+    
+    header {
+        background-color: #d3d6ee;
+        padding: 20px;
+        text-align: center;
+    }
+    
+    header img {
+        float: none;
+        box-shadow: none;
+    }
+    
+    main h2 {
+        border-bottom: 1px solid gray;
+        margin-right: 50px;
+    }
+    
+    footer {
+        margin-top: 20px;
+        text-align: center;
+        clear: both;
+        border-radius: 0;
+        background-color: #d3d6ee;
+        padding: 25px;
+        color: #FFF;
+    }
+    
+    main ul li {
+        line-height: 1.5rem;
+    }
+    
+    footer a {
+        color: #FFF;
+    }
+    
+    #updated {
+        color: rgb(66, 65, 75);
+        font-size: .9em;
+    }
+  }

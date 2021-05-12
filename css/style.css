@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Montserrat:wght@500&display=swap');
     #content h1 {
-        padding-right: 25%;}
+        padding-left: 25%;}
 
     header img {
         float: right;
@@ -60,7 +60,7 @@
         line-height: 1.5rem;
     }
     ul li{
-        padding-top:20%;
+        padding-top:5%;
     }
     
     footer a {
